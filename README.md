@@ -1,2 +1,2 @@
 # BasicHiddenDatabaseArrays
-Basic java function demonstrations for learning
+Basic javascript function demonstrations for learning.
